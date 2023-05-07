@@ -3,5 +3,9 @@ back_api/__pycache__/
 backend/__pycache__/
 Lib/
 Scripts/
-
+*.log
+*.pyc
+__pycache__/
+db-volumes/
+db.sqlite3
 
