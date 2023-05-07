@@ -1,0 +1,7 @@
+frontend/node_modules/
+back_api/__pycache__/
+backend/__pycache__/
+Lib/
+Scripts/
+
+
